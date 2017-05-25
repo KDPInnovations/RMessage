@@ -1,11 +1,11 @@
 {
   "success": {
-    "backgroundColor": "#00C060",
+    "backgroundColor": "#88cc81",
     "backgroundColorAlpha": 1.0,
-    "titleTextColor": "#FFFFFF",
-    "titleFontSize": 14,
-    "subTitleFontSize": 12,
-    "subTitleTextColor": "#FFFFFF",
+    "titleTextColor": "#292929",
+    "titleFontSize": 15,
+    "subTitleFontSize": 13,
+    "subTitleTextColor": "#292929",
     "iconImage": "NotificationBackgroundSuccessIcon.png",
     "blurBackground": 0
   },
@@ -19,22 +19,22 @@
     "blurBackground": 0
   },
   "warning": {
-    "backgroundColor": "#FFCC00",
+    "backgroundColor": "#FF8F00",
     "backgroundColorAlpha": 1.0,
-    "titleTextColor": "#484638",
-    "titleFontSize": 14,
-    "subTitleFontSize": 12,
-    "subTitleTextColor": "#484638",
+    "titleTextColor": "#1C2833",
+    "titleFontSize": 15,
+    "subTitleFontSize": 13,
+    "subTitleTextColor": "#1C2833",
     "iconImage": "NotificationBackgroundWarningIcon.png",
     "blurBackground": 0
   },
   "error": {
-    "backgroundColor": "#FF2D55",
+    "backgroundColor": "#BA2D0B",
     "backgroundColorAlpha": 1.0,
-    "titleTextColor": "#FFFFFF",
-    "titleFontSize": 14,
-    "subTitleFontSize": 12,
-    "subTitleTextColor": "#FFFFFF",
+    "titleTextColor": "#FEFEFE",
+    "titleFontSize": 15,
+    "subTitleFontSize": 13,
+    "subTitleTextColor": "#FEFEFE",
     "iconImage": "NotificationBackgroundErrorIcon.png",
     "blurBackground": 0
   }
