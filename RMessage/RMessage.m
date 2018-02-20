@@ -279,6 +279,15 @@ static UIViewController *_defaultViewController;
                               completion:(void (^)(void))completionBlock
 
 {
+    
+    if ([title isKindOfClass:[NSString class]]){
+        title=[[NSAttributedString alloc] initWithString:title];
+    }
+    
+    if ([subtitle isKindOfClass:[NSString class]]){
+        subtitle=[[NSAttributedString alloc] initWithString:subtitle];
+    }
+    
   RMessageView *messageView = [[RMessageView alloc] initWithDelegate:[RMessage sharedMessage]
                                                                title:title
                                                             subtitle:subtitle
