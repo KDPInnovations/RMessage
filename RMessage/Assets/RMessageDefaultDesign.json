@@ -1,45 +1,46 @@
 {
-  "success": {
-    "backgroundColor": "#88cc81",
-    "backgroundColorAlpha": 1.0,
-    "titleTextColor": "#292929",
-    "titleFontSize": 15,
-    "subTitleFontSize": 13,
-    "subTitleTextColor": "#292929",
-    "iconImage": "NotificationBackgroundSuccessIcon.png",
-    "leftViewImage": "NotificationBackgroundSuccessIcon.png",
-    "blurBackground": 0
-  },
-  "normal": {
-    "backgroundColor": "#E8E8E8",
-    "backgroundColorAlpha": 1.0,
-    "titleTextColor": "#727C83",
-    "titleFontSize": 14,
-    "subtitleFontSize": 12,
-    "subtitleTextColor": "#727C83",
-    "blurBackground": 0
-  },
-  "warning": {
-    "backgroundColor": "#FF8F00",
-    "backgroundColorAlpha": 1.0,
-
-    "titleTextColor": "#1C2833",
-    "titleFontSize": 15,
-    "subTitleFontSize": 13,
-    "subTitleTextColor": "#1C2833",
-    "iconImage": "NotificationBackgroundWarningIcon.png",
-    "leftViewImage": "NotificationBackgroundWarningIcon.png",
-    "blurBackground": 0
-  },
-  "error": {
-    "backgroundColor": "#BA2D0B",
-    "backgroundColorAlpha": 1.0,
-    "titleTextColor": "#FEFEFE",
-    "titleFontSize": 15,
-    "subTitleFontSize": 13,
-    "subTitleTextColor": "#FEFEFE",
-    "iconImage": "NotificationBackgroundErrorIcon.png",
-    "leftViewImage": "NotificationBackgroundErrorIcon.png",
-    "blurBackground": 0
-  }
+    "success": {
+        "backgroundColor": "#88cc81",
+        "backgroundColorAlpha": 1.0,
+        "titleTextColor": "#050709",
+        "titleFontSize": 15,
+        "subTitleFontSize": 13,
+        "subTitleTextColor": "#2B2B2B",
+        "iconImage": "NotificationBackgroundSuccessIcon.png",
+        "leftViewImage": "NotificationBackgroundSuccessIcon.png",
+        "blurBackground": 0
+    },
+    "normal": {
+        "backgroundColor": "#E8E8E8",
+        "backgroundColorAlpha": 1.0,
+        "titleTextColor": "#727C83",
+        "titleFontSize": 14,
+        "subtitleFontSize": 12,
+        "subtitleTextColor": "#727C83",
+        "blurBackground": 0
+    },
+    "warning": {
+        "backgroundColor": "#FF8F00",
+        "backgroundColorAlpha": 1.0,
+        
+        "titleTextColor": "#050709",
+        "titleFontSize": 15,
+        "subTitleFontSize": 13,
+        "subTitleTextColor": "#2B2B2B",
+        "iconImage": "NotificationBackgroundWarningIcon.png",
+        "leftViewImage": "NotificationBackgroundWarningIcon.png",
+        "blurBackground": 0
+    },
+    "error": {
+        "backgroundColor": "#BA2D0B",
+        "backgroundColorAlpha": 1.0,
+        "titleTextColor": "#F2F1EF",
+        "titleFontSize": 15,
+        "subTitleFontSize": 13,
+        "subTitleTextColor": "#E8E8E8",
+        "iconImage": "NotificationBackgroundErrorIcon.png",
+        "leftViewImage": "NotificationBackgroundErrorIcon.png",
+        "blurBackground": 0
+    }
 }
+
